@@ -6,7 +6,7 @@ permalink: /okuduklarim/
 
 Okurken kendi hikayemden uzaklaşıp bambaşka hikayelere konuk olduğum bu yıl içerisinde bitirdiğim kitapları içermektedir.
   
-  ## Olasılıksız - Adam Fawer
+  - Olasılıksız - Adam Fawer :angel:
   
    Deterministliğin, olasılığın,hayal gücünün barındığı aklın sınırlarını zorlayan, insanı ihtimallere ve düşünmeye sevk eden bir çırpıda bitirdiğim bir kitaptı yorumunda bulunabilirim.
    
