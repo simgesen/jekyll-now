@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Ondokuzmayıs Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
+Ondokuzmayıs Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi.
 
 
 ### Contact me
