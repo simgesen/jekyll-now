@@ -7,9 +7,9 @@ permalink: /okuduklarim/
 Okurken kendi hikayemden uzaklaşıp bambaşka hikayelere konuk olduğum bu yıl içerisinde bitirdiğim kitapları içermektedir.
   
   
-  -Olasılıksız - Adam Fawer
-  -Otostopçunun Galaksi Rehberi - Douglas Adams
-  -Kadın Beyni Erkek Beyni - Serkan Karaismailoğlu 
-  -Dönüşüm - Franz Kafka 
-  -Bilinmeyen Bir Kadının Mektubu - Stefan Zweig
+  *Olasılıksız - Adam Fawer
+  *Otostopçunun Galaksi Rehberi - Douglas Adams
+  *Kadın Beyni Erkek Beyni - Serkan Karaismailoğlu 
+  *Dönüşüm - Franz Kafka 
+  *Bilinmeyen Bir Kadının Mektubu - Stefan Zweig
    
