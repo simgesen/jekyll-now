@@ -4,7 +4,7 @@ title: Okuduklarım
 permalink: /okuduklarim/
 ---
 
-Okurken kendi hikayemden uzaklaşıp bambaşka hikayelere konuk olduğum bu yıl içerisinde bitirdiğim kitapları içermektedir.
+Okurken kendi hikayemden uzaklaşıp, bambaşka hikayelere konuk olduğum, bu yıl içerisinde bitirdiğim kitapları içermektedir.
   
   
   * Olasılıksız - Adam Fawer
