@@ -12,4 +12,5 @@ Okurken kendi hikayemden uzaklaşıp, bambaşka hikayelere konuk olduğum, bu y�
   * Kadın Beyni Erkek Beyni - Serkan Karaismailoğlu 
   * Dönüşüm - Franz Kafka 
   * Bilinmeyen Bir Kadının Mektubu - Stefan Zweig
+  * Başlangıç - Dan Brown
    
