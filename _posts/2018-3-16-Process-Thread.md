@@ -2,8 +2,6 @@
 layout: post
 
 ---
- 
-# Process ve Threadler
 
 ![alt text](http://javaquicknotes.com/web/img/question/ThreadProcess.png "Proses thread gösterimi")
 
