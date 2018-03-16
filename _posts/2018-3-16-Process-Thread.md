@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog
+title: !
 ---
  
 # Process ve Threadler
