@@ -1,6 +1,6 @@
 ---
 layout: post
-title: $cd blog
+
 ---
  
 # Process ve Threadler
