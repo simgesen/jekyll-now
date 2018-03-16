@@ -1,6 +1,6 @@
 ---
 layout: post
-title: $cat blog
+title: $cd blog
 ---
  
 # Process ve Threadler
