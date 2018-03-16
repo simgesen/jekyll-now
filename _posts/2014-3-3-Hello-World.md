@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  :scroll:
+title:  
 ---
  
 # Proses ve Threadler
