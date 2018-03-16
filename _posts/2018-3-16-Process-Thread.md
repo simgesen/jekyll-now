@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Process ve Threadler
+title: 
 ---
  
 # Proses ve Threadler
