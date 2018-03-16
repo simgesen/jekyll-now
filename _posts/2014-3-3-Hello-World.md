@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Process ve Threadler 
+title: Yazılarım 
 ---
  
 # Proses ve Threadler
