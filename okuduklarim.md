@@ -14,4 +14,5 @@ Okurken kendi hikayemden uzaklaşıp, bambaşka hikayelere konuk olduğum, bu y�
   * Bilinmeyen Bir Kadının Mektubu - Stefan Zweig
   * Başlangıç - Dan Brown
   * Kırlangıç Çığlığı - Ahmet Ümit
+  * Amok Koşucusu - Stefan Zweig
    
