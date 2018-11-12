@@ -15,4 +15,7 @@ Okurken kendi hikayemden uzaklaşıp, bambaşka hikayelere konuk olduğum, bu y�
   * Başlangıç - Dan Brown
   * Kırlangıç Çığlığı - Ahmet Ümit
   * Amok Koşucusu - Stefan Zweig
+  * Harry Potter ve Felsefe Taşı - J. K. Rowling
+  * Harry Potter ve Sırlar Odası - J. K. Rowling
+  * Şu Çılgın Türkler - Turgut Özakman
    
