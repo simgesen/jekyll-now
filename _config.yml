@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Simge Sen
+name: Simge Şen
 
 # Short bio or description (displayed in the header)
-description: Computer Engineering Student
+description: Computer Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/15477899?s=400&u=9cb3db3767d604890fe6138d9fa734caa3b35566&v=4
@@ -18,7 +18,7 @@ avatar: https://avatars3.githubusercontent.com/u/15477899?s=400&u=9cb3db3767d604
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: simge.sen@bil.omu.edu.tr
+  email: wsimgesen@gmail.com
   facebook:
   flickr:
   github: simgesen
@@ -30,7 +30,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-
+  medium: simgesen
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
